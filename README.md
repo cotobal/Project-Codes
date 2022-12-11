@@ -12,4 +12,5 @@ FOLDER: efficiency improvement on molding machine
 FOLDER: method of mirror images
   you can find 4 different archives that I made to visually represent the method of mirror images for a fluid source between 2 walls.
 
-code txt: TIVA project with distance sensor and LDR
+CSS TIVA PROJECT: code txt: TIVA project with distance sensor and LDR +Report explaining functioning + VIDEO: https://youtu.be/hhOxqQxSmz4
+
